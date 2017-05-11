@@ -1,5 +1,6 @@
 # zabbix-block-iostat
 #
+Zabbix template for monitor block devices load w/o collect iostat output
 
 linux.sys.stats.conf
 
